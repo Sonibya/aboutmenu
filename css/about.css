@@ -112,9 +112,6 @@ input[type="checkbox"]{
 /*Junbotron*/
 
 .jumbotron {
-  margin-top: 0px;
-  /*background-image: url(../img/bgg.jumbotronpg);*/
-  /*background-size: cover;*/
   width: 100%;
   height: 700px;
   padding: 100px;
@@ -162,7 +159,6 @@ input[type="checkbox"]{
 
 .jumbotron1 {
   width: 100%;
-  /*background: linear-gradient(#f9775d , #998433 ) ;*/
   background-color: black;
   display: flex;
   align-items: center;
@@ -178,7 +174,6 @@ input[type="checkbox"]{
 }
 
 .b1 img{
- 
   width: 100%;
 }
 
@@ -191,7 +186,6 @@ input[type="checkbox"]{
   width: 50%;
   height: 100%;
   min-height: 100%;
-  /*background: blue;*/
 }
 
 
@@ -200,11 +194,9 @@ input[type="checkbox"]{
 
 
 .jumbotron2{
-  /*background: linear-gradient(#b19ddd, #2323b5);*/
   background: #01dafe;
   width: 100%;
   display: flex;
-  /*align-items: center;*/
   color: black;
 }
 
@@ -249,9 +241,7 @@ input[type="checkbox"]{
 /*Jumbotron 3*/
 
 .jumbotron3{
-  /*background: linear-gradient(#EA6CA6, #E9516E);*/
   background: #494648;
-/*  position: relative;*/
   width: 100%;
   display: flex;
 }
@@ -276,7 +266,6 @@ input[type="checkbox"]{
 /*jumbotron 4*/
 
 .jumbotron4{
-  /*background: linear-gradient(#EA6F68, #CC3831);*/
   background-color: black;
   width: 100%;
   display: flex;
@@ -314,7 +303,6 @@ input[type="checkbox"]{
 /*jumbotron 5*/
 
 .jumbotron5{
-  /*background: linear-gradient(#EA6CA6, #E9516E);*/
   background-color: white;  
   width: 100%;
   display: flex;
